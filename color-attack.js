@@ -16,5 +16,5 @@ $("li").hover(function() {
     $(this).find("a").css("border-bottom-color", colors[colorCount]);
 }, function() {
     $(this).find("a").removeAttr("style");
-});# menu-color-attack
+});
 
