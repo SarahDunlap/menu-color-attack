@@ -10,3 +10,6 @@ Change the color of the bottom border of menu using javascript to create multipl
 ![menu color attach screenshot 1](https://github.com/SarahDunlap/menu-color-attack/blob/master/image1.JPG)
 ![menu color attach screenshot 2](https://github.com/SarahDunlap/menu-color-attack/blob/master/image2.JPG)
 
+#Example
+http://codepen.io/SarahDunlap/pen/xVGoLP
+
