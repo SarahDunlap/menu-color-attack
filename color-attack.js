@@ -10,7 +10,7 @@ function findColor () {
 }
 
 //changes color of the border bottom but make sure you have a border set up in css
-//also this targets the li tag so others items using li could potentially have a border color 
+//also this targets the li tag so other items using li could potentially have a border color 
 $("li").hover(function() {
     findColor(); 
     $(this).find("a").css("border-bottom-color", colors[colorCount]);
