@@ -8,7 +8,6 @@ Change the color of the bottom border of menu using javascript to create multipl
 - Add jQuery to your site <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 - Add color-attack.js to your site
 - Make sure you have a border bottom in your css file for your menu
-Example:
 ```
   .nameOfMenuDiv a:hover {border-bottom: solid thick;}
 ```
