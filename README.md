@@ -1,4 +1,4 @@
-Menu Color Attack
+Colors
 =================
 Change the color of the bottom border of a menu using javascript to create multiple border colors. The next color will be different each time you hover over the menu.
 
